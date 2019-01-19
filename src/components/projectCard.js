@@ -85,7 +85,7 @@ const ProjectCard = (props) => (
       css={{
         lineHeight: "32px",
         fontSize: "15px",
-        textAlign: props.mobile ? "center" : "justify"
+        textAlign: "justify"
       }}
     >
       {props.item.text}
