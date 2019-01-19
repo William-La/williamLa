@@ -76,7 +76,10 @@ const about = () => (
             lineHeight: "24px",
             padding: "0 6px 28px 0",
             fontColor: "#000000",
-            textAlign: "justify"
+            textAlign: "justify",
+            "@media(max-width: 920px)": {
+              textAlign: "left"
+            }
             }}>
             I'm an aspiring Computer Scientist at <a href="https://www.hmc.edu/about-hmc/fast-facts/" target="_blank" rel="noopener noreferrer">HARVEY MUDD COLLEGE</a>.
             I am passionate about Android development, Machine Learning, and many other Software 

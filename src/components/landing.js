@@ -68,7 +68,7 @@ const Landing = () => (
               fontWeight: 600,
               fontSize: "70px",
               paddingBottom: "5px",
-              
+              "@media(max-width: 821px)": { marginTop: "25px"}
             }}
           >
             Hello!

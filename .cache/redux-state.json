@@ -954,12 +954,12 @@
       "host": "localhost",
       "pathPrefix": "/williamLa",
       "polyfill": true,
-      "buildTime": "2019-01-19T08:34:37.432Z",
+      "buildTime": "2019-01-19T19:57:38.183Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "890d4af85bcf266e3593ecacd3964a20",
+        "contentDigest": "d5b9dc88076dea8951213ed6f4e45701",
         "type": "Site",
         "owner": "internal-data-bridge"
       }

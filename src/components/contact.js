@@ -62,15 +62,6 @@ const Contact = () => (
         <div
           css={{
             marginLeft: "auto",
-            marginRight: "auto",
-            maxWidth: "455px"
-          }}
-        >
-        </div>
-        
-        <div
-          css={{
-            marginLeft: "auto",
             marginRight: "auto"
           }}
         >
@@ -102,9 +93,7 @@ const Contact = () => (
                     display: "grid",
                     width: "75px",
                     height: "75px",
-                    marginLeft: "auto",
-                    marginRight: "auto"
-                  
+                    marginRight: "50px" //Icon spacing
                 }}
               >
                 <a aria-label={label} href={url} target="_blank" rel="noopener noreferrer" css={{}}>
@@ -115,7 +104,6 @@ const Contact = () => (
                       maskSize: "100% 100%",
                       width: "50px",
                       height: "50px",
-                      marginRight: "16px",
                       marginTop: "-5px",
                       ":hover": {
                         backgroundColor: "purple"

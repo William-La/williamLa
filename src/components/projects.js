@@ -24,7 +24,7 @@ import csharp from "../assets/img/projects/csharp.png"
 const projects = [
   {
     name: "Personal Website",
-    gitLink: "/#",
+    gitLink: "https://github.com/William-La/williamLa",
     date: "Dec. 2018-present",
     image: website,
     langImg: gatsby,
@@ -134,7 +134,7 @@ class Projects extends Component {
             
           </MediaQuery>
           <MediaQuery query="screen and (max-width: 1000px)">
-            <div css={{ margin: "0 0 40px 0" }}>
+            <div css={{ margin: "0 0 10px 0" }}>
               <ProjectMsgMobile text={blurb} />
               <ProjectListMobile
                 currentProject={this.state.currentProject}
