@@ -2,12 +2,12 @@ import React from "react";
 import Helmet from "react-helmet";
 
 import "./index.css";
-import About from "../components/about";
+import About from "../components/About";
 import Landing from "../components/Landing";
-import Design from "../components/design";
-import Projects from "../components/projects";
-import Organizations from "../components/organizations";
-import Contact from "../components/contact";
+import Design from "../components/Design";
+import Projects from "../components/Projects";
+import Organizations from "../components/Organizations";
+import Contact from "../components/Contact";
 
 import favicon from "../assets/img/icons/favicon.ico"
 import profile from "../assets/img/profile/Profile.jpg";
