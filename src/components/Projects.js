@@ -29,7 +29,7 @@ const projects = [
     image: website,
     langImg: gatsby,
     text:
-      "This website! I utilize GatsbyJS, ReactJS, HTML, and CSS to develop and maintain this website, which acts as my online portfolio. It can also be viewed on mobile!"
+      "This website! I utilize GatsbyJS, ReactJS, HTML, and CSS to develop and maintain this website, which acts as my online portfolio. It is also compatible with mobile!"
   },
   {
     name: "Math Royale",

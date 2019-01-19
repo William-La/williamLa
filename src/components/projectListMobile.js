@@ -45,7 +45,7 @@ class ProjectListMobile extends Component {
     ));
 
     return (
-      <div css={{ width: "100%", paddingBottom: "40px"}}>
+      <div css={{ width: "100%", paddingBottom: "20px"}}>
         <Slider css={{ marginTop: "-40px"}} {...settings}>{list}</Slider>
       </div>
     );
