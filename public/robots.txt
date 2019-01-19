@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://qhacks.io/sitemap.xml
+Host: https://qhacks.io
