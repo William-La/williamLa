@@ -9,7 +9,7 @@ var plugins = [{
       options: {"plugins":[],"trackingId":"UA-72429502-3","head":false,"anonymize":false,"respectDNT":true},
     },{
       plugin: require('C:/Users/2000w/williamLa/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"La William","short_name":"wla","start_url":"/","background_color":"#00205b","theme_color":"#c81c2e","display":"minimal-ui","icon":"src/assets/img/profile/pngProfile.png"},
+      options: {"plugins":[],"name":"La William","short_name":"wla","start_url":"/","background_color":"#00205b","theme_color":"#0a205b","display":"minimal-ui","icon":"src/assets/img/profile/pngProfile.png"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

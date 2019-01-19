@@ -463,9 +463,9 @@
         "owner": "internal-data-bridge"
       }
     },
-    "0bba3c89-8525-5085-a95f-1bc3bac8b98f": {
+    "4820559e-204c-5a8b-b61a-2fc84fa2e8cb": {
       "resolve": "C:/Users/2000w/williamLa/node_modules/gatsby-plugin-manifest",
-      "id": "0bba3c89-8525-5085-a95f-1bc3bac8b98f",
+      "id": "4820559e-204c-5a8b-b61a-2fc84fa2e8cb",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.6",
       "pluginOptions": {
@@ -474,7 +474,7 @@
         "short_name": "wla",
         "start_url": "/",
         "background_color": "#00205b",
-        "theme_color": "#c81c2e",
+        "theme_color": "#0a205b",
         "display": "minimal-ui",
         "icon": "src/assets/img/profile/pngProfile.png"
       },
@@ -545,7 +545,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "cf8568fadaa21fe707842ebd56f515d6",
+        "contentDigest": "b1b5c5408d7d56fff938bafa8131e1cf",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -639,7 +639,7 @@
       "resolve": "C:/Users/2000w/williamLa",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "08520fba274b6d97abe2f7e20cf1b14f",
+      "version": "4afed9e6c4fd1f552d0dc153c900de9d",
       "pluginOptions": {
         "plugins": []
       },
@@ -837,7 +837,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c98f906728a005973d9404a004520266",
+        "contentDigest": "10b584e6b5184acee2c3bc368fee9b87",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -954,12 +954,12 @@
       "host": "localhost",
       "pathPrefix": "/williamLa",
       "polyfill": true,
-      "buildTime": "2019-01-19T20:34:02.422Z",
+      "buildTime": "2019-01-19T20:52:21.675Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0fab328049eed9ac88f8ab7963db9e87",
+        "contentDigest": "42cb49d6a9b5cd49cf2e67a686290283",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -987,7 +987,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "deb2411a5a8e8c9b194603a25eb43c09"
+    "PLUGINS_HASH": "6d7f067f87e20b72cb33f9a6be43c68e"
   },
   "componentDataDependencies": {
     "nodes": {},
@@ -999,13 +999,13 @@
     "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "C:/Users/2000w/williamLa/src/pages/index.js": {
-      "query": "",
-      "componentPath": "C:/Users/2000w/williamLa/src/pages/index.js"
-    },
     "C:/Users/2000w/williamLa/.cache/dev-404-page.js": {
       "query": "",
       "componentPath": "C:/Users/2000w/williamLa/.cache/dev-404-page.js"
+    },
+    "C:/Users/2000w/williamLa/src/pages/index.js": {
+      "query": "",
+      "componentPath": "C:/Users/2000w/williamLa/src/pages/index.js"
     }
   },
   "staticQueryComponents": {}

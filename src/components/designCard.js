@@ -4,8 +4,6 @@ class DesignCard extends Component{
   render(){
     return(
 
-  
-
         <div
           css={{
             marginLeft: "auto",
@@ -68,7 +66,10 @@ class DesignCard extends Component{
                   textTransform: "uppercase",
                   fontWeight: 800,
                   lineHeight: "28px",
-                  color: "#00205b"
+                  color: "#00205b",
+                  "@media(max-width: 820px)": {
+                    textAlign: "center"
+                  }
                 }}
               >
                 {this.props.name}
@@ -78,6 +79,9 @@ class DesignCard extends Component{
                   fontWeight: 500,
                   paddingTop: "8px",
                   lineHeight: "23px",
+                  "@media(max-width: 820px)": {
+                    textAlign: "center"
+                  }
                 }}
               >
                 {this.props.title}
@@ -89,7 +93,10 @@ class DesignCard extends Component{
                     transition: "1s",
                     marginBottom: "-400px",
                     lineHeight: "1.43",
-                    color: "#565656"
+                    color: "#565656",
+                    "@media(max-width: 820px)": {
+                      textAlign: "center"
+                    }
                   }}
                 >
                   {this.props.description}

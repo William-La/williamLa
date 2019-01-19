@@ -22,7 +22,10 @@ const lCSS = (backgroundColor) =>
   css({
     backgroundColor,
     width: "130px",
-    height: "4px"
+    height: "4px",
+    "@media(max-width: 920px)": {
+      display: "none",
+    }
   });
 
 const about = () => (
@@ -61,7 +64,13 @@ const about = () => (
             "@media (max-width: 920px)": { paddingRight: "0px" }
           }}
         >
-          <h1 css={{ paddingTop: "2px" }}>About Me</h1>
+          <h1 css={{ 
+            paddingTop: "2px", 
+            "@media(max-width: 920px)": {
+              textAlign: "center",
+              paddingTop: "20px"
+            } 
+            }}>About Me</h1>
           <div
             css={{
               display: "grid",
@@ -78,7 +87,7 @@ const about = () => (
             fontColor: "#000000",
             textAlign: "justify",
             "@media(max-width: 920px)": {
-              textAlign: "left"
+              textAlign: "center"
             }
             }}>
             I'm an aspiring Computer Scientist at <a href="https://www.hmc.edu/about-hmc/fast-facts/" target="_blank" rel="noopener noreferrer">HARVEY MUDD COLLEGE</a>.
