@@ -11,7 +11,7 @@ const ProjectCard = (props) => (
       borderRadius: "8px",
       boxShadow: "4px 7px 20px 2px rgba(7, 16, 75, 0.1)",
       border: "solid 1px #e8e8e8",
-      padding: props.mobile ? "24px 24px 82px 24px" : "48px",
+      padding: props.mobile ? "24px 24px 82px 24px" : "24px",
       margin: props.mobile ? "45px 0px" : "45px 23px",
       flex: props.mobile ? null : "0 0 530px",
       backgroundColor: "white",
