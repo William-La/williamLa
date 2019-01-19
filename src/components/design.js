@@ -5,12 +5,12 @@ import { Lightbox } from "react-modal-image";
 
 import abstract2 from "../assets/img/icons/abstract2.png";
 
-import SWETshirt from "../assets/img/designs/SWETshirt72.jpg";
+import SWETshirt72 from "../assets/img/designs/SWETshirt72.jpg";
 import info from '../assets/img/designs/info72.jpg';
 import ad from "../assets/img/designs/HackdayAd72.jpg";
 import pres from "../assets/img/designs/FirstSlideHackday72.jpg";
 import journys from "../assets/img/designs/JOURNYS72.jpg";
-import SWETshirt1 from "../assets/img/designs/SWETshirt.jpg";
+import SWETshirt from "../assets/img/designs/SWETshirt.jpg";
 import info1 from '../assets/img/designs/info.jpg';
 import ad1 from "../assets/img/designs/HackdayAd.jpg";
 import pres1 from "../assets/img/designs/FirstSlideHackday.jpg";
@@ -24,8 +24,8 @@ const designs = [
     title: "Society of Women Engineers at HMC",
     description:
       "A fundraising T-shirt design for the Harvey Mudd College branch of the Society of Women Engineers.",
-    image: SWETshirt,
-    img: SWETshirt1
+    image: SWETshirt72,
+    img: SWETshirt
   },
   {
     name: "Infographic",
