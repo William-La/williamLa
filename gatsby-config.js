@@ -44,7 +44,7 @@ module.exports = {
         short_name: "wla",
         start_url: "/",
         background_color: "#00205b",
-        theme_color: "#c81c2e",
+        theme_color: "#0a205b",
         display: "minimal-ui",
         icon: "src/assets/img/profile/pngProfile.png"
       }
