@@ -25,6 +25,10 @@ export default () => {
               "William La's personal website!"
           },
           {
+            name: "theme-color",
+            content: "#0a205b"
+          },
+          {
             name: "keywords",
             content: "William La, Personal Website, Computer Science, Software"
           },
