@@ -630,7 +630,7 @@
       "resolve": "C:/Users/2000w/williamLa",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "57d590937bb23686e10f0f91e3b81d67",
+      "version": "08520fba274b6d97abe2f7e20cf1b14f",
       "pluginOptions": {
         "plugins": []
       },
@@ -665,6 +665,10 @@
           {
             "name": "gatsby-plugin-manifest",
             "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-plugin-netlify",
+            "version": "^2.0.1"
           },
           {
             "name": "gatsby-plugin-offline",
@@ -824,7 +828,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d3607f522a4292bf599f628d97bf3e40",
+        "contentDigest": "c98f906728a005973d9404a004520266",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -937,14 +941,14 @@
         "siteUrl": "williamkla.com",
         "title": "William La"
       },
-      "pathPrefix": "/William-La.github.io",
+      "pathPrefix": "/williamLa",
       "polyfill": true,
-      "buildTime": "2019-01-19T06:54:19.873Z",
+      "buildTime": "2019-01-19T08:04:11.511Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b4affe0d133f4956989e6fabffa86643",
+        "contentDigest": "d784a9c7e8eae540e16eeff4567d7672",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -992,7 +996,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "9cf798534596ef2f5332001836c2bf62"
+    "PLUGINS_HASH": "deb2411a5a8e8c9b194603a25eb43c09"
   },
   "componentDataDependencies": {
     "nodes": {},
@@ -1004,13 +1008,13 @@
     "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "C:/Users/2000w/williamLa/node_modules/gatsby-plugin-offline/app-shell.js": {
-      "query": "",
-      "componentPath": "C:/Users/2000w/williamLa/node_modules/gatsby-plugin-offline/app-shell.js"
-    },
     "C:/Users/2000w/williamLa/src/pages/index.js": {
       "query": "",
       "componentPath": "C:/Users/2000w/williamLa/src/pages/index.js"
+    },
+    "C:/Users/2000w/williamLa/node_modules/gatsby-plugin-offline/app-shell.js": {
+      "query": "",
+      "componentPath": "C:/Users/2000w/williamLa/node_modules/gatsby-plugin-offline/app-shell.js"
     }
   },
   "staticQueryComponents": {}

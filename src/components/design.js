@@ -5,16 +5,16 @@ import { Lightbox } from "react-modal-image";
 
 import abstract2 from "../assets/img/icons/abstract2.png";
 
-import SWETshirt from "../assets/img/designs/SWETshirt72.jpg"
-import info from '../assets/img/designs/info72.jpg'
-import ad from "../assets/img/designs/HackdayAd72.jpg"
-import pres from "../assets/img/designs/FirstSlideHackday72.jpg"
-import journys from "../assets/img/designs/JOURNYS72.jpg"
-import SWETshirt1 from "../assets/img/designs/SWETshirt.jpg"
-import info1 from '../assets/img/designs/info.jpg'
-import ad1 from "../assets/img/designs/HackdayAd.jpg"
-import pres1 from "../assets/img/designs/FirstSlideHackday.jpg"
-import journys1 from "../assets/img/designs/JOURNYS.jpg"
+import SWETshirt from "../assets/img/designs/SWETshirt72.jpg";
+import info from '../assets/img/designs/info72.jpg';
+import ad from "../assets/img/designs/HackdayAd72.jpg";
+import pres from "../assets/img/designs/FirstSlideHackday72.jpg";
+import journys from "../assets/img/designs/JOURNYS72.jpg";
+import SWETshirt1 from "../assets/img/designs/SWETshirt.jpg";
+import info1 from '../assets/img/designs/info.jpg';
+import ad1 from "../assets/img/designs/HackdayAd.jpg";
+import pres1 from "../assets/img/designs/FirstSlideHackday.jpg";
+import journys1 from "../assets/img/designs/JOURNYS.jpg";
 
 import Wrapper from "./wrapper";
 
