@@ -12,6 +12,8 @@ import Contact from "../components/Contact";
 import favicon from "../assets/img/icons/favicon.ico"
 import profile from "../assets/img/profile/Profile.jpg";
 
+{/*Adapted from https://github.com/qhacks/qhacks-website*/}
+
 export default () => {
 
   return (
