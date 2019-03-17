@@ -28,6 +28,7 @@
     "npm": "6.x"
   },
   "dependencies": {
+    "@react-pdf/renderer": "^1.4.1",
     "axios": "^0.18.0",
     "gatsby": "^2.0.64",
     "gatsby-plugin-glamor": "^2.0.5",
@@ -39,10 +40,12 @@
     "glamor": "^2.20.40",
     "moment-timezone": "^0.5.21",
     "react": "^16.5.0",
-    "react-dom": "^16.5.0",
+    "react-dom": "^16.8.4",
     "react-helmet": "^5.2.0",
     "react-modal-image": "^2.3.1",
+    "react-pdf": "^4.0.5",
     "react-responsive": "^5.0.0",
+    "react-router": "^4.4.0",
     "react-scrollspy": "^3.3.5",
     "react-slick": "^0.23.1",
     "react-transition-group": "^2.5.0",
