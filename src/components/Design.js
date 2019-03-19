@@ -23,7 +23,7 @@ const designs = [
     name: "Shirt Design",
     title: "Society of Women Engineers at HMC",
     description:
-      "A fundraising T-shirt design for the Harvey Mudd College branch of the Society of Women Engineers.",
+      "A fundraising T-shirt design for the Harvey Mudd College branch of the Society of Women Engineers. Sold 90+ shirts.",
     image: swe,
     img: swe1
   },
