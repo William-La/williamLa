@@ -7,6 +7,7 @@ import Wrapper from "./Wrapper";
 import abstractLines from "../assets/img/backgrounds/abstractLines.svg";
 import Profile from "./Profile";
 import william from "../assets/img/profile/pngProfile.png";
+import resume from "../Resume.pdf";
 
 const aboutCSS = {
   margin: "0 0 100px 0",
@@ -17,7 +18,7 @@ const aboutCSS = {
 
 const Landing = () => (
   <div
-    id=""
+    id="top"
     css={{
       width: "100%",
       background: `url(${abstractLines}) no-repeat center center`,
@@ -88,6 +89,9 @@ const Landing = () => (
           >
             I'm William La, a Computer Science student at Harvey Mudd College.
           </h2>
+          <div>
+            <a href={resume}>Resume</a>
+            </div>
               
           <TransitionButton
             backgroundColor="#ffffff"
