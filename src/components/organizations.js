@@ -13,17 +13,12 @@ const algn = ["0 0 0 150px", "0 150px 0 0"]
 
 const orgs = [
   {
-    name: "5C Software Club",
-    text: "A club across which provides a platform for starting programming projects. I assisted the club in running \"Claremont Local Hack Day\".",
-    img: software
-  },
-  {
-    name: "Living Learning Community",
+    name: "Living Learning Community, Co-President",
     text: "We discuss social justice topics to help students become leaders in challenging these issues.",
     img: llc
   },
   {
-    name: "The Muddraker",
+    name: "The Muddraker, Chief of Design",
     text: "I design layout and write articles about student life for the Harvey Mudd College newspaper.",
     img: mudd
   },
@@ -31,6 +26,11 @@ const orgs = [
     name: "Asian Pacific Islander Sponsor Program at Mudd",
     text: "A diversity-focused group that hosts workshops and encourages discussion regarding cultural backgrounds and identity.",
     img: api
+  },
+  {
+    name: "5C Software Club",
+    text: "A club across which provides a platform for starting programming projects. I assisted the club in running \"Claremont Local Hack Day\".",
+    img: software
   },
 ];
 
