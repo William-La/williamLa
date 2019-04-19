@@ -81,10 +81,11 @@ const about = () => (
               textAlign: "left"
             }
             }}>
-            I'm an aspiring Computer Scientist at <a href="https://www.hmc.edu/about-hmc/fast-facts/" target="_blank" rel="noopener noreferrer">HARVEY MUDD COLLEGE</a>.
+            I'm an aspiring Computer Scientist and Digital Media Studies major at 
+             <a href="https://www.hmc.edu/about-hmc/fast-facts/" target="_blank" rel="noopener noreferrer"> HARVEY MUDD COLLEGE</a>.
             I am passionate about Android development, Machine Learning, and many other Software 
             Engineering fields. My non-technical interests include music, topics involving social justice/equity, and 
-            various forms of design. Check out some of my <a href="/#projects">PROJECTS</a> below!
+            various forms of digital design. Check out some of my <a href="/#projects">PROJECTS</a> below!
           </p>
         </div>
         <div css={wrap}>
