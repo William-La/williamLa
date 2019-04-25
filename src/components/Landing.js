@@ -86,7 +86,7 @@ const Landing = () => (
               }
             }}
           >
-            I'm William La, a Computer Science student at Harvey Mudd College.
+            I'm William La, a Computer Science and Digital Media Studies student at Harvey Mudd College.
           </h2>
               
           <TransitionButton
