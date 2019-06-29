@@ -23,7 +23,7 @@ const orgs = [
     img: mudd
   },
   {
-    name: "API Sponsor Program at Mudd, Mentor",
+    name: "Asian Pacific Islander Sponsor Program at Mudd",
     text: "A diversity-focused group that hosts workshops and encourages discussion regarding cultural backgrounds and identity.",
     img: api
   },

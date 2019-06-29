@@ -31,19 +31,11 @@ const projects = [
     text:
       "This website! I utilize GatsbyJS, ReactJS, HTML, GraphQL, and CSS to develop and maintain this website, which acts as my online portfolio. I also utilized Adobe Photoshop and Illustrator to design various graphics on this page. It's also compatible with mobile!"
   },
-  //{
-  // name: "About Web Part",
-  //  date: "May 2019-June 2019",
-  //  image: "",
-  //  langImg: java,
-  //  text:
-  //    ""
-  //},
   {
     name: "Math Royale",
     partner: "1:  Farzaan Kaiyom",
     gitLink: "https://github.com/farzaank/MathRoyale",
-    date: "May 2018",
+    date: "May 2018-present",
     image: mathRoyale,
     langImg: java,
     text:
