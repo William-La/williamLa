@@ -7,19 +7,21 @@ import ProjectMsg from "./ProjectMsg";
 import ProjectListMobile from "./ProjectListMobile.js";
 import ProjectMsgMobile from "./ProjectMsgMobile";
 
+// Project image imports
 import website from "../assets/img/projects/website.png";
 import mathRoyale from "../assets/img/projects/mathRoyale.png";
 import puttPuttPool from "../assets/img/projects/puttPuttPool.jpg";
-import arduino from "../assets/img/projects/arduino.jpg";
-import bulwark from "../assets/img/projects/projectBulwark.jpg"
+// import arduino from "../assets/img/projects/arduino.jpg";
+import terminal from "../assets/img/projects/terminal.png";
+import bulwark from "../assets/img/projects/projectBulwark.jpg";
 
-
-import gatsby from "../assets/img/projects/reactGatsby.png"
-import java from "../assets/img/projects/java.png"
-import python from "../assets/img/projects/python.png"
-import cplusplus from "../assets/img/projects/cplusplus.png"
-import csharp from "../assets/img/projects/csharp.png"
-
+// Project language image imports
+import gatsby from "../assets/img/projects/reactGatsby.png";
+import java from "../assets/img/projects/java.png";
+import python from "../assets/img/projects/python.png";
+// import cplusplus from "../assets/img/projects/cplusplus.png";
+import post from "../assets/img/projects/postPython.png";
+import csharp from "../assets/img/projects/csharp.png";
 
 const projects = [
   {
@@ -32,14 +34,13 @@ const projects = [
       "This website! I utilize GatsbyJS, ReactJS, HTML, GraphQL, and CSS to develop and maintain this website, which acts as my online portfolio. I also utilized Adobe Photoshop and Illustrator to design various graphics on this page. It's also compatible with mobile!"
   },
   {
-    name: "Math Royale",
-    partner: "1:  Farzaan Kaiyom",
-    gitLink: "https://github.com/farzaank/MathRoyale",
-    date: "May 2018-present",
-    image: mathRoyale,
-    langImg: java,
+    name: "Logs Analysis",
+    gitLink: "https://github.com/William-La/logs-analysis-project",
+    date: "July 2019",
+    image: terminal,
+    langImg: post,
     text:
-      "Used Java and Android Studio for my final project for my AP Computer Science. In Math Royale, by clicking, the user gains knowledge which they can use to buy and learn about new math concepts."
+      "Created a reporting tool which analyzes a database with three tables and over one million entries using PostgreSQL and Python. Requirement for Udacity's Full Stack Web Developer Nanodegree."
   },
   {
     name: "Putt Putt Pool",
@@ -52,14 +53,14 @@ const projects = [
       "Programmed a combination of mini golf and billiards using the VPython library. Putt Putt Pool was my final project for the Introduction to Computer Science class (CSCI 005: Black Section) at Harvey Mudd College."
   },
   {
-    name: "Turing Machine",
-    partner: "2",
-    gitLink: "https://github.com/William-La/Arduino-Turing-Machine",
-    date: "Oct. 2018",
-    image: arduino,
-    langImg: cplusplus,
+    name: "Math Royale",
+    partner: "1:  Farzaan Kaiyom",
+    gitLink: "https://github.com/farzaank/MathRoyale",
+    date: "May 2018",
+    image: mathRoyale,
+    langImg: java,
     text:
-      "Constructed a decryption machine from an arduino using bit manipulation in C++. This was my project for MuddHacks, Harvey Mudd College's annual hackathon."
+      "Used Java and Android Studio for my final project for my AP Computer Science. In Math Royale, by clicking, the user gains knowledge which they can use to buy and learn about new math concepts."
   },
   {
     name: "Project Bulwark",
