@@ -3,7 +3,24 @@ import { css } from "glamor";
 
 import Wrapper from "./Wrapper";
 
+import callaway from "../assets/img/experience/callawayLogo.jpg";
+import tStem from "../assets/img/experience/thoughtSTEM.jpg";
+
 const jobs = [
+  {
+    title: "Information Technology Intern",
+    company: "Callaway Golf",
+    date: "May 2019-Aug. 2019",
+    desc: "",
+    icon: callaway
+  },
+  {
+    title: "Software Development Intern",
+    company: "ThoughtSTEM",
+    date: "June 2017-Aug. 2017",
+    desc: "",
+    icon: tSTEM
+  }
   ];
 
 export default () => (
