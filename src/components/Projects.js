@@ -14,6 +14,7 @@ import puttPuttPool from "../assets/img/projects/puttPuttPool.jpg";
 // import arduino from "../assets/img/projects/arduino.jpg";
 import terminal from "../assets/img/projects/terminal.png";
 import bulwark from "../assets/img/projects/projectBulwark.jpg";
+import item from "../assets/img/projects/itemCatalog.png";
 
 // Project language image imports
 import gatsby from "../assets/img/projects/reactGatsby.png";
@@ -34,6 +35,15 @@ const projects = [
       "This website! I utilize GatsbyJS, ReactJS, HTML, GraphQL, and CSS to develop and maintain this website, which acts as my online portfolio. I also utilized Adobe Photoshop and Illustrator to design various graphics on this page. It's also compatible with mobile!"
   },
   {
+    name: "Item Catalog",
+    gitLink: "https://github.com/William-La/item-catalog",
+    date: "August 2019",
+    image: item,
+    langImg: python,
+    text:
+      "A full stack web application that allows users to browse items stored in a SQLite database. Users authenticated through Google's OAuth2 API are able to post, edit, and delete items. It utilizes the Flask web framework to create a responsive front end. It also utilizes SQLalchemy to interact with the web app's backend."
+  },
+  {
     name: "Logs Analysis",
     gitLink: "https://github.com/William-La/logs-analysis-project",
     date: "July 2019",
@@ -42,7 +52,7 @@ const projects = [
     text:
       "Created a reporting tool which analyzes a database with three tables and over one million entries using PostgreSQL and Python. Requirement for Udacity's Full Stack Web Developer Nanodegree."
   },
-  {
+  /*{
     name: "Putt Putt Pool",
     partner: "1: Jeremy Tsai",
     gitLink: "https://github.com/William-La/PuttPuttPool",
@@ -51,7 +61,7 @@ const projects = [
     langImg: python,
     text:
       "Programmed a combination of mini golf and billiards using the VPython library. Putt Putt Pool was my final project for the Introduction to Computer Science class (CSCI 005: Black Section) at Harvey Mudd College."
-  },
+  },*/
   {
     name: "Math Royale",
     partner: "1:  Farzaan Kaiyom",
