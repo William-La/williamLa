@@ -64,7 +64,6 @@ const Landing = () => (
           <br />
           <h1
             css={{
-              color: "#00205b",
               fontWeight: 600,
               fontSize: "70px",
               paddingBottom: "5px",
@@ -76,7 +75,7 @@ const Landing = () => (
 
           <h2
             css={{
-              color: "#00205b",
+              color: "#421B89",
               fontWeight: 600,
               fontSize: "24px",
               paddingBottom: "30px",
@@ -91,7 +90,8 @@ const Landing = () => (
               
           <TransitionButton
             backgroundColor="#ffffff"
-            foregroundColor="#00205b"
+            //foregroundColor="#00205b"
+            foregroundColor="#421B89"
             style={aboutCSS}
             section = "about"
             type="rounded"

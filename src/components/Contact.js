@@ -24,7 +24,7 @@ const social = [
 const Contact = () => (
   <section css={{
     position: "relative",
-    backgroundColor: "#11213d"
+    backgroundColor: "#421B89"
   }}
   id = "contact"
   >
@@ -86,7 +86,7 @@ const Contact = () => (
                     " a": {
                       color: "#DDDDDD",
                       ">div": {
-                        backgroundColor: "#791093"
+                        backgroundColor: "#0F0F0F"
                       }
                     }
                   },
@@ -106,7 +106,7 @@ const Contact = () => (
                       height: "50px",
                       marginTop: "-5px",
                       ":hover": {
-                        backgroundColor: "purple"
+                        backgroundColor: "#9279E5"
                       },
                       "@media(max-width: 950px)": {
                         width: "40px",

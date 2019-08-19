@@ -10,7 +10,7 @@ import ProjectMsgMobile from "./ProjectMsgMobile";
 // Project image imports
 import website from "../assets/img/projects/website.png";
 import mathRoyale from "../assets/img/projects/mathRoyale.png";
-import puttPuttPool from "../assets/img/projects/puttPuttPool.jpg";
+// import puttPuttPool from "../assets/img/projects/puttPuttPool.jpg";
 // import arduino from "../assets/img/projects/arduino.jpg";
 import terminal from "../assets/img/projects/terminal.png";
 import bulwark from "../assets/img/projects/projectBulwark.jpg";

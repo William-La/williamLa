@@ -1,7 +1,12 @@
 import React from "react";
 import ScrollSpy from "react-scrollspy";
 
-import abstract from "../assets/img/logos/abstractLogo1.svg";
+// navy blue logo
+// import abstract from "../assets/img/logos/abstractLogo1.svg";
+
+// purple logo
+import abstract from "../assets/img/logos/abstractLogo2.svg";
+
 
 const Menu = (props) => {
   return (
@@ -98,7 +103,7 @@ const Menu = (props) => {
               css={{
                 ":hover": {
                   " a": {
-                    color: "#00205b"
+                    color: "#9279E5"
                   },
                   ">div": {
                     width: "100%",
@@ -126,7 +131,7 @@ const Menu = (props) => {
                   transition: "0.5s",
                   marginLeft: "auto",
                   marginRight: "auto",
-                  backgroundColor: "#00205b",
+                  backgroundColor: "#9279E5",
                   width: "0px"
                 }}
               />

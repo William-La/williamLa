@@ -1,7 +1,13 @@
 import React from "react";
 
 import menuClose from "../assets/img/icons/mobileMenuClose.svg";
-import hamburger from "../assets/img/icons/mobileMenuOpen.svg";
+
+// purple hamburger
+import hamburger from "../assets/img/icons/mobileMenuOpen1.svg";
+
+// navy blue hamburger
+// import hamburger from "../assets/img/icons/mobileMenuOpen.svg";
+
 import logo from "../assets/img/logos/abstractLogo.svg";
 
 const MenuMobile = (props) => (
@@ -33,7 +39,7 @@ const MenuMobile = (props) => (
         top: "0px",
         left: "0px",
         zIndex: "5",
-        background: "#11213f"
+        background: "#421B89"
       }}
     >
       <input

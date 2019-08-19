@@ -66,7 +66,8 @@ class DesignCard extends Component{
                   textTransform: "uppercase",
                   fontWeight: 800,
                   lineHeight: "28px",
-                  color: "#00205b",
+                  //color: "#00205b",
+                  color: "#421B89",
                   "@media(max-width: 820px)": {
                     textAlign: "center"
                   }

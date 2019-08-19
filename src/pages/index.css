@@ -77,7 +77,8 @@ input {
 
 h1 {
   font-size: 32px;
-  color: #00205c;
+  /*color: #00205c;*/
+  color: #421B89;
   letter-spacing: 0px;
   font-weight: 700;
 }
@@ -91,7 +92,8 @@ h2 {
 
 h3 {
   font-size: 18px;
-  color: #0a205c;
+  /*color: #0a205c;*/
+  color: #421B89;
   font-weight: 800;
 }
 
@@ -102,13 +104,15 @@ p {
 
 a {
   text-decoration: none;
-  color: #0a205b;
+  /*color: #0a205c;*/
+  color: #421B89;
   font-weight: 600;
   font-size: 17px;
 }
 
 a:hover {
-  color: #5d1f81;
+  /*color: #0a205c;*/
+  color: #9279E5;
   /* cursor: default; */
 }
 
