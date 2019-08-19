@@ -32,6 +32,7 @@ class orgCard extends Component{
                             maxWidth: "125px",
                             width: "100%",
                             "@media(max-width: 820px)": {
+                                marginTop: "15px",
                                 float: "none",
                                 display: "block",
                                 marginLeft: "auto",
@@ -49,6 +50,7 @@ class orgCard extends Component{
                             textAlign: `${this.props.textAlign}`,
                             "@media(max-width: 820px)": {
                                 margin: "0 0 0 0",
+                                padding: "10px 0 0 0",
                                 textAlign: "center",
                             }
                         }}>
