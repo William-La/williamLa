@@ -7,8 +7,6 @@ Work In Progress Features
 -------------------------
 I am currently working on an experience section that will display my previous internships. This section will resemble a timeline and will describe the work I did during those internships.
 
-I also plan to change the color scheme of the website from blue and white to purple and white.
-
 Tools and Languages Used
 -------------------------
 I utilize [GatsbyJS](https://www.gatsbyjs.org/), [ReactJS](https://reactjs.org/), [GraphQL](https://graphql.org/), HTML, and CSS to develop and maintain the website, which acts as my online portfolio. I also utilized [Adobe](https://www.adobe.com/) Photoshop, Illustrator, and InDesign to create various graphics on the page.
