@@ -43,8 +43,8 @@ module.exports = {
         name: "La William",
         short_name: "wla",
         start_url: "/",
-        background_color: "#00205b",
-        theme_color: "#0a205b",
+        background_color: "#421B89",
+        theme_color: "#421B89",
         display: "minimal-ui",
         icon: "src/assets/img/profile/pngProfile.png"
       }
