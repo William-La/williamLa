@@ -41,7 +41,7 @@ const Contact = () => (
             padding: "15px 0 0 0",
             fontSize: "20px"
         }}>
-        Interested in my work? I'm currently searching for software internships for this upcoming summer.
+        Interested in my work? I'm currently searching for PM and software engineering internships for this upcoming summer.
         </p>
         <div css={{
             paddingTop: "15px"
