@@ -1,9 +1,12 @@
 import React from "react";
 import Helmet from "react-helmet";
-import About from "../components/About";
+
+import Product from "../components/Products.js"
+
+
 
 export default () => ( 
     <div>
-        <About />
+        <p>Work in progress</p>
     </div>
 )
