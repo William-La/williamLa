@@ -5,16 +5,21 @@ import { Lightbox } from "react-modal-image";
 
 import abstract2 from "../assets/img/icons/abstract2.png";
 
+// 72ppi resolution images for design card previews
 import steam from "../assets/img/designs/steamLogo72.png";
 import swe from "../assets/img/designs/Swetshirt72.jpg";
 import info from '../assets/img/designs/info72.jpg';
 import ad from "../assets/img/designs/HackdayAd72.jpg";
-import pres from "../assets/img/designs/FirstSlideHackday72.jpg";
+// import pres from "../assets/img/designs/FirstSlideHackday72.jpg";
 import journys from "../assets/img/designs/JOURNYS72.jpg";
+import llcgender from "../assets/img/designs/LLCGenderScience.jpg";
+
+// high quality photos for modal popup
+import llcgender1 from "../assets/img/designs/LLCGenderScience.jpg";
 import swe1 from "../assets/img/designs/Swetshirt.jpg";
 import info1 from '../assets/img/designs/info.jpg';
 import ad1 from "../assets/img/designs/HackdayAd.jpg";
-import pres1 from "../assets/img/designs/FirstSlideHackday.jpg";
+// import pres1 from "../assets/img/designs/FirstSlideHackday.jpg";
 import journys1 from "../assets/img/designs/JOURNYS.jpg";
 import steam1 from "../assets/img/designs/steamLogo.png";
 
@@ -22,6 +27,14 @@ import steam1 from "../assets/img/designs/steamLogo.png";
 import Wrapper from "./Wrapper";
 
 const designs = [
+  {
+    name: "Poster Ad",
+    title: "HMC Living Learning Community",
+    description:
+      "A poster design for HMC's LLC promoting a talk regarding Queer Theory & Gender Science by Decatur Foster.",
+    image: llcgender,
+    img: llcgender1
+  },
   {
     name: "Logo",
     title: "Synthetic Tissue Engineering and Microfluidics Lab",
@@ -54,14 +67,14 @@ const designs = [
     image: ad,
     img: ad1
   },
-  {
+  /*{
     name: "Presentation",
     title: "5C Software Club",
     description:
       "A presentation I designed for Claremont Local Hackday, a hackathon organized by 5C Software Club. Only first slide is shown.",
     image: pres,
     img: pres1
-  },
+  },*/
   {
     name: "Design Manager",
     title: "JOURNYS",
