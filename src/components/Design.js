@@ -12,7 +12,7 @@ import info from '../assets/img/designs/info72.jpg';
 import ad from "../assets/img/designs/HackdayAd72.jpg";
 // import pres from "../assets/img/designs/FirstSlideHackday72.jpg";
 import journys from "../assets/img/designs/JOURNYS72.jpg";
-import llcgender from "../assets/img/designs/LLCGenderScience.jpg";
+import llcgender from "../assets/img/designs/LLCGenderScience72.jpg";
 
 // high quality photos for modal popup
 import llcgender1 from "../assets/img/designs/LLCGenderScience.jpg";
