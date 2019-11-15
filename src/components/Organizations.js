@@ -14,17 +14,17 @@ const algn = ["0 0 0 150px", "0 150px 0 0"]
 const orgs = [
   {
     name: "Living Learning Community, Co-President",
-    text: "We discuss social justice topics to help students become leaders in challenging these issues.",
+    text: "I lead a group of eleven students in planning and hosting social justice workshops for 200+ attendees.",
     img: llc
   },
   {
     name: "The Muddraker, Chief of Design",
-    text: "I design layout and write articles about student life for the Harvey Mudd College newspaper.",
+    text: "I serve on editorial board, design layouts, and write articles about student life for the Harvey Mudd College newspaper.",
     img: mudd
   },
   {
     name: "API Sponsor Program at Mudd, Mentor",
-    text: "A diversity-focused API (Asian & Pacific Islander) group that hosts workshops and encourages discussion regarding cultural identity.",
+    text: "A diversity-focused API (Asian & Pacific Islander) group. I advise five freshmen and host diversity-focused workshops.",
     img: api
   },
   {
