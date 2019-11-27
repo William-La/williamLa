@@ -41,7 +41,7 @@ const projects = [
     image: item,
     langImg: python,
     text:
-      "A full stack web application that allows users to browse items stored in a SQLite database. Users authenticated through Google's OAuth2 API are able to post, edit, and delete items. It utilizes the Flask web framework to create a responsive front end. It also utilizes SQLalchemy to interact with the web app's backend."
+      "A full stack web application that allows users to browse items stored in a SQLite database. Users authenticated through Google's OAuth2 API are able to post, edit, and delete items. It utilizes the Flask web framework for a responsive front end and SQLalchemy to interact with the web app's backend."
   },
   {
     name: "Logs Analysis",
@@ -145,7 +145,7 @@ class Projects extends Component {
             
           </MediaQuery>
           <MediaQuery query="screen and (max-width: 1000px)">
-            <div css={{ margin: "0 0 10px 0" }}>
+            <div>
               <ProjectMsgMobile text={blurb} />
               <ProjectListMobile
                 currentProject={this.state.currentProject}
