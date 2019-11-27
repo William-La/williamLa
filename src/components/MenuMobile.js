@@ -8,7 +8,7 @@ import hamburger from "../assets/img/icons/mobileMenuOpen1.svg";
 // navy blue hamburger
 // import hamburger from "../assets/img/icons/mobileMenuOpen.svg";
 
-import logo from "../assets/img/logos/abstractLogo.svg";
+import logo from "../assets/img/logos/wlaLogoG.svg";
 
 const MenuMobile = (props) => (
   <div

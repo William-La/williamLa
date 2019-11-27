@@ -1,12 +1,14 @@
 import React from "react";
 import ScrollSpy from "react-scrollspy";
 
-// navy blue logo
+// old navy blue logo
 // import abstract from "../assets/img/logos/abstractLogo1.svg";
 
-// purple logo
-import abstract from "../assets/img/logos/abstractLogo2.svg";
+// old purple logo
+// import abstract from "../assets/img/logos/abstractLogo2.svg";
 
+// new logo
+import logo from "../assets/img/logos/wlaLogo.svg"
 
 const Menu = (props) => {
   return (
@@ -32,8 +34,8 @@ const Menu = (props) => {
         }}
       >
         <img
-          src={abstract}
-          alt="abstract"
+          src={logo}
+          alt="logo"
           css={{
             padding: "5px 0 5px 0",
             marginLeft: "10px",
@@ -58,8 +60,8 @@ const Menu = (props) => {
         }}
       >
         <img
-          src={abstract}
-          alt="abstract"
+          src={logo}
+          alt="logo"
           css={{
             padding: "5px 0 5px 0",
             marginLeft: "10px",
