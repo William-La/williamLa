@@ -13,14 +13,14 @@ const algn = ["0 0 0 150px", "0 150px 0 0"]
 
 const orgs = [
   {
-    name: "Living Learning Community, Co-President",
-    text: "I lead a group of eleven students in planning and hosting social justice workshops for 200+ attendees.",
-    img: llc
+    name: "The Muddraker, Editor in Chief",
+    text: "I coordinate the editorial board, schedule team and board meetings, and create meeting agendas to publish the HMC newspaper.",
+    img: mudd
   },
   {
-    name: "The Muddraker, Chief of Design",
-    text: "I serve on editorial board, design layouts, and write articles about student life for the Harvey Mudd College newspaper.",
-    img: mudd
+    name: "Living Learning Community, Co-President",
+    text: "I lead a group of eleven students in planning and hosting social justice workshops for 250+ attendees.",
+    img: llc
   },
   {
     name: "API Sponsor Program at Mudd, Mentor",
