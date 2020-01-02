@@ -81,11 +81,10 @@ const about = () => (
               textAlign: "left"
             }
             }}>
-            I'm an aspiring Computer Science and Digital Media Studies major at 
+            I'm an aspiring Computer Science and Digital Media Studies major with a background in Human Centered Design at 
              <a href="https://www.hmc.edu/about-hmc/fast-facts/" target="_blank" rel="noopener noreferrer"> HARVEY MUDD COLLEGE</a>.
-            I am passionate about Full Stack Web Development, Machine Learning, and many other software 
-            related fields. My non-technical interests include music, topics involving social justice & equity, and 
-            various forms of digital design. Check out some of my <a href="/#projects">PROJECTS</a> below!
+            I am passionate about the intersection of technology, media, and design. My non-technical interests include music, topics 
+            involving social justice & equity, and graphic design. Check out some of my <a href="/#projects">PROJECTS</a> below!
           </p>
         </div>
         <div css={wrap}>
