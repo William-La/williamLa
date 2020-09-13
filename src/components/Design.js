@@ -13,6 +13,7 @@ import ad from "../assets/img/designs/HackdayAd72.jpg";
 // import pres from "../assets/img/designs/FirstSlideHackday72.jpg";
 import journys from "../assets/img/designs/JOURNYS72.jpg";
 import llcgender from "../assets/img/designs/LLCGenderScience72.jpg";
+import sontag from "../assets/img/designs/sontag72.jpg"
 
 // high quality photos for modal popup
 import llcgender1 from "../assets/img/designs/LLCGenderScience.jpg";
@@ -22,11 +23,19 @@ import ad1 from "../assets/img/designs/HackdayAd.jpg";
 // import pres1 from "../assets/img/designs/FirstSlideHackday.jpg";
 import journys1 from "../assets/img/designs/JOURNYS.jpg";
 import steam1 from "../assets/img/designs/steamLogo.png";
-
+import sontag1 from "../assets/img/designs/sontag.jpg"
 
 import Wrapper from "./Wrapper";
 
 const designs = [
+  {
+    name: "Sticker Design",
+    title: "Sontag Dorm Merch",
+    description:
+      "A sticker design for students living in Sontag Dorm at Harvey Mudd College.",
+    image: sontag,
+    img: sontag1
+  },
   {
     name: "Poster Ad",
     title: "HMC Living Learning Community",
