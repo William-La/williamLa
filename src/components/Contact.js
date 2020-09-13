@@ -41,7 +41,7 @@ const Contact = () => (
             padding: "15px 0 0 0",
             fontSize: "20px"
         }}>
-        Interested in my work? I'm currently searching for product management and software engineering internships for the summer of 2020.
+        Interested in my work? I'm currently searching for product management and software engineering internships for the summer of 2021.
         </p>
         <div css={{
             paddingTop: "15px"
