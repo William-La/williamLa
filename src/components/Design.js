@@ -14,6 +14,7 @@ import ad from "../assets/img/designs/HackdayAd72.jpg";
 import journys from "../assets/img/designs/JOURNYS72.jpg";
 import llcgender from "../assets/img/designs/LLCGenderScience72.jpg";
 import sontag from "../assets/img/designs/sontag72.jpg"
+import mount from "../assets/img/designs/mount72.jpg"
 
 // high quality photos for modal popup
 import llcgender1 from "../assets/img/designs/LLCGenderScience.jpg";
@@ -24,10 +25,19 @@ import ad1 from "../assets/img/designs/HackdayAd.jpg";
 import journys1 from "../assets/img/designs/JOURNYS.jpg";
 import steam1 from "../assets/img/designs/steamLogo.png";
 import sontag1 from "../assets/img/designs/sontag.jpg"
+import mount1 from "../assets/img/designs/mount.jpg"
 
 import Wrapper from "./Wrapper";
 
 const designs = [
+  {
+    name: "Mountain Type Art",
+    title: "Intermediate Digital Art",
+    description:
+      "A type art composition made for my Intermediate Digital Art class. Spells out 'Mountain'.",
+    image: mount,
+    img: mount1
+  },
   {
     name: "Sticker Design",
     title: "Sontag Dorm Merch",
