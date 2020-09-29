@@ -54,14 +54,14 @@ const designs = [
     image: llcgender,
     img: llcgender1
   },
-  {
+  /*{
     name: "Logo",
     title: "Synthetic Tissue Engineering and Microfluidics Lab",
     description:
       "A marketing logo modeled after microfluidic devices for a research team at Harvey Mudd College.",
     image: steam,
     img: steam1
-  },
+  },*/
   {
     name: "Shirt Design",
     title: "Society of Women Engineers at HMC",
@@ -78,14 +78,14 @@ const designs = [
     image: info,
     img: info1
   },
-  {
+  /*{
     name: "Social Media Ad",
     title: "5C Software Club",
     description:
       "A social media ad created for Claremont Local Hackday, a hackathon organized by 5C Software Club.",
     image: ad,
     img: ad1
-  },
+  },*/
   /*{
     name: "Presentation",
     title: "5C Software Club",
