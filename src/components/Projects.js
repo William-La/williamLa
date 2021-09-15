@@ -26,13 +26,13 @@ import csharp from "../assets/img/projects/csharp.png";
 
 const projects = [
   {
-    name: "Personal Website",
-    gitLink: "https://github.com/William-La/williamLa",
-    date: "Dec. 2018-present",
-    image: website,
-    langImg: gatsby,
+    name: "Introspective Spotify",
+    gitLink: "https://github.com/bettinabenitez/introspectivespotify",
+    date: "September 2020-May 2021",
+    image: item,
+    langImg: python,
     text:
-      "This website! I utilize GatsbyJS, ReactJS, HTML, GraphQL, and CSS to develop and maintain this website, which acts as my online portfolio. I also utilized Adobe Photoshop and Illustrator to design various graphics on this page. It's also compatible with mobile!"
+      "I worked as a product manager and full-stack developer for a Discord music bot that utilizes Spotify’s Web API to retrieve users’ listening statistics for music theory analysis using Python and PostgreSQL. I prototyped features and conducted user research to gather and prioritize requirements."
   },
   {
     name: "Item Catalog",
@@ -42,6 +42,15 @@ const projects = [
     langImg: python,
     text:
       "A full stack web application that allows users to browse items stored in a SQLite database. Users authenticated through Google's OAuth2 API are able to post, edit, and delete items. It utilizes the Flask web framework for a responsive front end and SQLalchemy to interact with the web app's backend."
+  },
+  {
+    name: "Personal Website",
+    gitLink: "https://github.com/William-La/williamLa",
+    date: "Dec. 2018",
+    image: website,
+    langImg: gatsby,
+    text:
+      "This website! I utilize GatsbyJS, ReactJS, HTML, GraphQL, and CSS to develop and maintain this website, which acts as my online portfolio. I also utilized Adobe Photoshop and Illustrator to design various graphics on this page. It's also compatible with mobile!"
   },
   {
     name: "Logs Analysis",
