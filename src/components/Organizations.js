@@ -13,8 +13,8 @@ const algn = ["0 0 0 150px", "0 150px 0 0"]
 
 const orgs = [
   {
-    name: "The Muddraker, Editor in Chief",
-    text: "I coordinate the editorial board, schedule team and board meetings, and create meeting agendas to publish the HMC newspaper.",
+    name: "The Muddraker, Senior Advisor",
+    text: "I advise the Editor-in-Chief and other editorial board members in leading the HMC student-run newspaper.",
     img: mudd
   },
   {
@@ -26,11 +26,6 @@ const orgs = [
     name: "API Sponsor Program at Mudd, Mentor",
     text: "A diversity-focused API (Asian & Pacific Islander) group. I advise five freshmen and host diversity-focused workshops.",
     img: api
-  },
-  {
-    name: "5C Software Club",
-    text: "A club across which provides a platform for starting programming projects. I assisted the club in running \"Claremont Local Hack Day\".",
-    img: software
   },
 ];
 

@@ -15,6 +15,7 @@ import mathRoyale from "../assets/img/projects/mathRoyale.png";
 import terminal from "../assets/img/projects/terminal.png";
 import bulwark from "../assets/img/projects/projectBulwark.jpg";
 import item from "../assets/img/projects/itemCatalog.png";
+import spot from "../assets/img/projects/intspotv2.jpg";
 
 // Project language image imports
 import gatsby from "../assets/img/projects/reactGatsby.png";
@@ -27,9 +28,10 @@ import csharp from "../assets/img/projects/csharp.png";
 const projects = [
   {
     name: "Introspective Spotify",
+    partner: "3",
     gitLink: "https://github.com/bettinabenitez/introspectivespotify",
-    date: "September 2020-May 2021",
-    image: item,
+    date: "Sep. 2020-May 2021",
+    image: spot,
     langImg: python,
     text:
       "I worked as a product manager and full-stack developer for a Discord music bot that utilizes Spotify’s Web API to retrieve users’ listening statistics for music theory analysis using Python and PostgreSQL. I prototyped features and conducted user research to gather and prioritize requirements."
@@ -37,7 +39,7 @@ const projects = [
   {
     name: "Item Catalog",
     gitLink: "https://github.com/William-La/item-catalog",
-    date: "August 2019",
+    date: "Aug. 2019",
     image: item,
     langImg: python,
     text:
@@ -55,7 +57,7 @@ const projects = [
   {
     name: "Logs Analysis",
     gitLink: "https://github.com/William-La/logs-analysis-project",
-    date: "July 2019",
+    date: "Jul. 2019",
     image: terminal,
     langImg: post,
     text:
@@ -85,7 +87,7 @@ const projects = [
     name: "Project Bulwark",
     partner: "1",
     gitLink: "https://github.com/William-La/Project-Bulwark",
-    date: "June 2017",
+    date: "Jun. 2017",
     image: bulwark,
     langImg: csharp,
     text: "Created a fantasy tower defense game using Unity and C#. I also created the art using Adobe Photoshop and Illustrator. Finished basic features and framework. Working demo on Github."
