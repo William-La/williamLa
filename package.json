@@ -46,7 +46,7 @@
     "react-pdf": "^5.4.0",
     "react-responsive": "^8.2.0",
     "react-router": "^5.2.1",
-    "react-scrollspy": "^3.3.5",
+    "react-scrollspy": "^3.4.3",
     "react-slick": "^0.28.1",
     "react-transition-group": "^4.4.2",
     "slick-carousel": "^1.8.1"
