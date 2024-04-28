@@ -41,7 +41,7 @@ const Contact = () => (
             padding: "15px 0 0 0",
             fontSize: "20px"
         }}>
-        Interested in my work? I'm currently searching for new grad software engineering and PM roles.
+        Interested in my work? I'd love to chat and connect.
         </p>
         <div css={{
             paddingTop: "15px"
@@ -51,7 +51,7 @@ const Contact = () => (
               textAlign: "center",
               " a": { color: "", textSize: "24px" }
             }}>
-              Send me an email (resume available upon request) and check out some of the other links below!
+              Send me an email and check out some of the other links below!
             </p>
         </div>
       <div
